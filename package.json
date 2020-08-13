@@ -1,0 +1,22 @@
+{
+  "name": "pumpitupbot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@discordjs/uws": "^10.149.0",
+    "ffmpeg-binaries": "^4.0.0",
+    "ffmpeg-static": "^4.2.1",
+    "opusscript": "0.0.6",
+    "parse-time": "^0.1.4",
+    "ytdl-core": "^2.1.7"
+  },
+  "devDependencies": {
+    "discord.js": "^12.2.0"
+  }
+}
